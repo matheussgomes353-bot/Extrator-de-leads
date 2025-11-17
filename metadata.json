@@ -1,0 +1,7 @@
+{
+  "name": "Extrator de Leads com IA",
+  "description": "Uma aplicação inteligente de extração de leads que usa Google Search e Maps para encontrar leads de negócios com base nas consultas do usuário. Ele estrutura os dados e os envia para um webhook especificado.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
